@@ -1,0 +1,6 @@
+{
+  "name": "KAS RT 06/04 Jati Pulogadung",
+  "description": "Kas dan iuran warga RT 06/04 Jati, Pulogadung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
