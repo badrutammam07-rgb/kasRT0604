@@ -4,6 +4,9 @@ export default defineConfig({
   tanstackStart: {
     server: { entry: "server" },
   },
+  nitro: {
+    preset: "node-server",
+  },
   vite: {
     server: {
       port: 3000,
@@ -14,3 +17,4 @@ export default defineConfig({
     },
   },
 });
+
