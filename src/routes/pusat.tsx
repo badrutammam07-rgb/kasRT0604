@@ -390,7 +390,7 @@ function Dashboard({ token, onLogout }: { token: string; onLogout: () => void })
         </Card>
 
         <Tabs defaultValue="setoran">
-          <TabsList className="grid h-auto w-full grid-cols-4 rounded-xl">
+          <TabsList className="grid h-auto w-full grid-cols-6 rounded-xl">
             <TabsTrigger value="setoran" className="text-[11px]">
               Setoran
             </TabsTrigger>

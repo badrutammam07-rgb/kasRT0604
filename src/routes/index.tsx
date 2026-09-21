@@ -17,7 +17,6 @@ import {
 import { useMemo, useState } from "react";
 import { toast } from "sonner";
 
-import { NewsNotify } from "@/components/NewsNotify";
 import { PeriodFilter } from "@/components/PeriodFilter";
 
 import { SearchSelect } from "@/components/SearchSelect";
@@ -472,13 +471,6 @@ function Beranda() {
             </form>
           </CardContent>
         </Card>
-
-        <NewsNotify />
-
-
-
-
-
 
         {/* Tab data */}
         <Tabs defaultValue="berita">
