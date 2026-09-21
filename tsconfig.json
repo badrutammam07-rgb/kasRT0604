@@ -27,5 +27,5 @@
     "noEmit": true
   },
   "include": ["src/**/*"],
-  "exclude": ["node_modules", "dist", ".output", "temp_repo"]
+  "exclude": ["node_modules", "dist", ".output"]
 }
